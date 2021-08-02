@@ -1,0 +1,61 @@
+export default { 
+    product : [
+    {
+      _id: '1',
+      name: 'Meat Pizza',
+      ingredients: 'Mixed Pizza',
+      category: 'Pizza',
+      price: '8.30',
+      image: '/images/meatPizza.png',
+      rating: 4.5,
+      numReviews: 10,
+      countInStock: 6,
+    },
+    {
+      _id: '2',
+      name: 'Cheese Pizza',
+      ingredients: 'Cheese Pizza',
+      category: 'Pizza',
+      price: '7.10',
+      image: '/images/cheesePizza.png',
+      rating: 4.5,
+      numReviews: 10,
+      countInStock: 7,
+    },
+    {
+      _id: '3',
+      name: 'Chicken Burger',
+      ingredients: 'Fried Chicken',
+      category: 'Burger',
+      price: '5.10',
+      image: '/images/chickenBurger.png',
+      rating: 6.5,
+      numReviews: 10,
+      countInStock: 6,
+    },
+    {
+      _id: '4',
+      name: 'Sushi Makizushi',
+      ingredients: 'Salmon Meat',
+      category: 'Pizza',
+      price: '9.55',
+      image: '/images/sushiMakizushi.png',
+      rating: 4.5,
+      numReviews: 10,
+      countInStock: 6,
+    },
+    {
+      _id: '5',
+      name: 'Pepronni Pizza',
+      ingredients: 'cheese Pizza',
+      category: 'Pizza',
+      price: '11.55',
+      image: '/images/pepronni.jpg',
+      rating: 4.5,
+      numReviews: 10,
+      countInStock: 3,
+    },
+  ]
+  
+}
+  
